@@ -1,1 +1,1 @@
-# Docker-CI
+# Personal learning project - dockering multiple apps
